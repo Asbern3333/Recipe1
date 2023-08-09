@@ -1,4 +1,7 @@
 # Recipe
+# Description
+Building a Recipe Management System with Sequelize, we worked on a project to build a recipe management system using Node.js, Express.js, and Sequelize. Our task was to implement the CRUD functionality and server-side data validation using Sequelize.
+
 # First
 Going to the terminal to make a directory called: "Recipe-Management-System-Sequelize".                                                                             
 #Second, 
